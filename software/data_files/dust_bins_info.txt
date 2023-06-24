@@ -1,0 +1,3 @@
+01,,TP05BIRENDRA01,,Tulsipur-05,Birendra Chowk,,28°07'59.7"N 82°17'53.0"E,, Green
+02,,TP05BUSPARK02,,Tulsipur-05,Buspark Road,,28°07'59.2"N 82°17'37.2"E,, Red
+03,,TP03SANTI01,,Tulsipur-03, Damargaun,,28°08'56.3"N 82°17'44.9"E,, Green
